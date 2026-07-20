@@ -1,0 +1,6 @@
+{
+  "name": "Operação Calistenia Militar",
+  "description": "Desafio de condicionamento físico e calistenia militar de 21 dias para forjar um corpo de combate sem sair de casa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
